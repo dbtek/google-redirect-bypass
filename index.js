@@ -2,7 +2,7 @@
 // @name         Google Redirect Bypass
 // @version      0.1
 // @description  Google redirect bypass script.
-// @author       Ismail Demirbilek
+// @author       dbtek
 // @match        https://www.google.com/url*
 // @grant        none
 // ==/UserScript==
